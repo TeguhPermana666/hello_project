@@ -3,6 +3,6 @@ int main(){
 
     printf("Hello");
     printf("Tri Adi");
-    printf("ini kan tri, bisa keganti ga? ");
+    printf("denise");
     return 0;
 }
