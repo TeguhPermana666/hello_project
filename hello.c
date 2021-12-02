@@ -5,5 +5,6 @@ int main(){
     printf("Tri Adi");
     printf("denise");
     printf("ee teguh ni aku tri");
+    printf("test");
     return 0;
 }
